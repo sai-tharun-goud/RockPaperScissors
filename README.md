@@ -28,16 +28,17 @@ Play again and try to beat the machine!
 This project was built as a fun way to strengthen core frontend skills:  
 Practicing DOM manipulation , 
 Writing clean, reusable JS functions , 
-Designing layouts without frameworks , 
+Designing layouts without frameworks .  
 
 
 💡 Future Improvements : 
 🔊 Add sound effects , 
 🧠 Smarter AI (maybe?) , 
 🌐 Add score tracking across sessions , 
-🎭 Add animations or themes , 
+🎭 Add animations or themes .  
 
 
 🙌 Let’s Connect :
 Feel free to reach out or give feedback. I'd love to hear your thoughts!
+https://github.com/sai-tharun-goud
 

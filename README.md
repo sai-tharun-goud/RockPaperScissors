@@ -41,5 +41,5 @@ Designing layouts without frameworks .
 🙌 Let’s Connect :
 Feel free to reach out or give feedback. I'd love to hear your thoughts!
 https://github.com/sai-tharun-goud
-linkedin.com/in/sai-tharun-goud-004aa5367
+https://www.linkedin.com/in/sai-tharun-goud-004aa5367?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BJi7g09QHTTutnw8H4S%2FhaA%3D%3D
 
